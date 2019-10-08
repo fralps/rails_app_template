@@ -44,7 +44,7 @@
 
 ### Autres :
 
-* CDN Boostrap
+* CDN Bootstrap
 * CDN FontAwesome
 * CDN Box Icon
 * Homepage toute simple avec les boutons de connexion / inscription / déconnexion
