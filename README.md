@@ -46,4 +46,12 @@
 * CDN Boostrap
 * CDN FontAwesome
 * CDN Box Icon
-* Homepage toute simple avec les boutons de connexion / inscrition / déconnexion
+* Homepage toute simple avec les boutons de connexion / inscription / déconnexion
+
+## Obtenir le template
+
+1. Cloner le repository
+2. Changer le nom du dossier
+3. Retirer le .git
+4. Associer l'app à votre github (ou autres)
+5. Enjoy
