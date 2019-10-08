@@ -26,6 +26,7 @@
 
 #### Autres  
 
+* Jquery rails
 * Dotenv-rails
 * Friendly id
 * Letter opener
