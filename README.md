@@ -54,4 +54,4 @@
 2. Changer le nom du dossier
 3. Retirer le .git
 4. Associer l'app à votre github (ou autres)
-5. Enjoy
+5. Enjoy 👍
