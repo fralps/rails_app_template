@@ -82,6 +82,7 @@ gem 'friendly_id', '~> 5.2.4'
 gem 'letter_opener'
 gem 'rubocop', require: false
 gem 'table_print'
+gem 'jquery-rails'
 
 # Authentification gem
 gem 'devise'

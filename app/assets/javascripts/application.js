@@ -10,6 +10,7 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require jquery
 //= require rails-ujs
 //= require activestorage
 //= require_tree .
@@ -18,5 +19,5 @@
 
 $(document).ready(function() {
 	// Make an element disappear after a short time
-	$('.delay_fadeout').delay(2750).fadeOut(400); 
+	$('.delay_fadeout').delay(2750).fadeOut(400);
 });
