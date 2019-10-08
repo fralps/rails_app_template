@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
@@ -83,4 +85,3 @@ gem 'table_print'
 
 # Authentification gem
 gem 'devise'
-

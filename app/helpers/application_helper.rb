@@ -1,5 +1,7 @@
+# frozen_string_literal: true
+
 module ApplicationHelper
-	# Flash messages
+  # Flash messages
   def flash_class(level)
     case level
     when 'notice' then 'alert alert-info alert-dismissible fade show '

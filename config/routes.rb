@@ -1,5 +1,9 @@
-Rails.application.routes.draw do
+# frozen_string_literal: true
 
-	# Devise routes
+Rails.application.routes.draw do
+  # Home page
+  root to: 'static_pages#home'
+
+  # Devise routes
   devise_for :users
 end
